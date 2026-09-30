@@ -1,2 +1,2 @@
 # Python-Practice-
-Learning Python step by step 
+Day 1: print("Hello, main Python seekh raha hoon!")
